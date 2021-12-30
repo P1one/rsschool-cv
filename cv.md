@@ -2,33 +2,42 @@
 
 ### Contacts
 
-* __Location:__ Minsk,Belarus
-* Phone
-Email
-GitHub
+- **Location:** Minsk,Belarus
+- **Phone:** +375 33 910 98 93
+- **Email:** papopov.work@gmail.com
+- **GitHub:** P1one
 
-About me
+### About me
 
-Skills
-Html
-CSS
-JS (Basic)
-Git
+I'm good team worker and very willing to learn and develop new skills.
+I am purposeful, reserved, responsive and get along well with people.
 
-Code Example
- ``` javascript
- function multiply(a, b){
-  a * b
- }
+### Skills
 
- function multiply(a, b){
-     return a * b
- }
- ```
- Expirience
- Education
- University:BSUIR
- Courses: https://stepik.org/course/38218/promo
- English level
- A2(basic) 
+- Html
+- CSS
+- JS (Basic)
+- Git
 
+### Code Example
+
+```javascript
+function multiply(a, b) {
+	a * b;
+}
+
+function multiply(a, b) {
+	return a * b;
+}
+```
+
+### Expirience
+
+### Education
+
+**University:** BSUIR
+**Courses:** https://stepik.org/course/38218/promo
+
+### English level
+
+A2(basic)
