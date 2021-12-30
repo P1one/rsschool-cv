@@ -35,8 +35,8 @@ function multiply(a, b) {
 
 ### Education
 
-**University:** BSUIR
-**Courses:** https://stepik.org/course/38218/promo
+- **University:** BSUIR
+- **Courses:** https://stepik.org/course/38218/promo
 
 ### English level
 
