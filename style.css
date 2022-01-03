@@ -1,9 +1,29 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.container {
+	max-width: 1440px;
+	margin: 0 auto;
+}
+
 .nav {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: center;
+	align-items: center;
 }
-.nav-list{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
+
+.nav-list {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+    list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+.nav-link :hover {
+  transition: .3s;
 }
