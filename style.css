@@ -1,0 +1,9 @@
+.nav {
+	display: flex;
+	justify-content: flex-end;
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
