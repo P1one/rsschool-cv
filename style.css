@@ -2,7 +2,17 @@
 	font-family: Open Sans Condensed;
 	src: url("assets/fonts/OpenSansCondensed-Light.ttf");
 }
+@media screen and (max-width: 1440px) {
+	.section {
+		width: 50%;
+	}
+}
 
+@media screen and (max-width: 768px) {
+	.section {
+		width: 100%;
+	}
+}
 body {
 	display: flex;
 	flex-direction: column;
@@ -48,12 +58,8 @@ header {
 	flex-wrap: wrap;
 }
 
-.section {
-	width: 50%;
-}
-
 .stepik-link {
-    color: black;
+	color: black;
 }
 
 footer {
