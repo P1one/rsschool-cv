@@ -13,6 +13,13 @@
 		width: 100%;
 	}
 }
+
+@media screen and (max-width: 375px) {
+	.section {
+		width: 100%;
+	}
+}
+
 body {
 	display: flex;
 	flex-direction: column;
